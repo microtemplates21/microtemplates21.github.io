@@ -1,64 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://microtemplates21.github.io/</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/index.html</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
-<url>
-  <loc>https://microtemplates21.github.io/</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/Free Customizable Health & Fitness Logo - Editable in Canva & Adobe AI</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/Free Customizable Coffee Shop Logo - Editable in Canva & Adobe AI</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/Free Customizable Electrician Business Card Template</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://microtemplates21.github.io/Free Customizable Fitness Logo Template for Canva & AI – Perfect for Gym & Trainer Branding</loc>
-  <lastmod>2024-12-10T13:29:52+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <url>
+    <loc>https://microtemplates21.github.io/</loc>
+    <lastmod>2024-12-11T14:52:45+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://microtemplates21.github.io/index.html</loc>
+    <lastmod>2024-12-11T14:52:45+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://microtemplates21.github.io/Free%20Customizable%20Fitness%20Logo%20Template%20for%20Canva%20&%20AI%20%E2%80%93%20Perfect%20for%20Gym%20&%20Trainer%20Branding.html</loc>
+    <lastmod>2024-12-10T13:29:52+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://microtemplates21.github.io/Free%20Customizable%20Health%20&%20Fitness%20Logo%20-%20Editable%20in%20Canva%20&%20Adobe%20AI.html</loc>
+    <lastmod>2024-12-10T13:29:52+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://microtemplates21.github.io/Free%20Customizable%20Coffee%20Shop%20Logo%20-%20Editable%20in%20Canva%20&%20Adobe%20AI.html</loc>
+    <lastmod>2024-12-10T13:29:52+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://microtemplates21.github.io/Free%20Customizable%20Electrician%20Business%20Card%20Template.html</loc>
+    <lastmod>2024-12-10T13:29:52+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
 </urlset>
