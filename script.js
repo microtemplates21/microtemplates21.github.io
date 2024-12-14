@@ -58,3 +58,28 @@ document.addEventListener("DOMContentLoaded", function() {
   document.addEventListener("DOMContentLoaded", function() {
     year(); // Call the function
   });
+//   Ads
+<div id="scripts" class="scripts"></div>
+
+
+function test() {
+    // Create a <script> element dynamically
+    const script = document.createElement('script');
+
+    // Add the inline JavaScript code as a string
+    script.textContent = `(function(d,z,s){
+        s.src='https://'+d+'/401/'+z;
+        try {
+            (document.body || document.documentElement).appendChild(s);
+        } catch(e) {
+            console.error('Error loading script:', e);
+        }
+    })('groleegni.net', 8652942, document.createElement('script'));`;
+
+    // Append the script to the target div
+    document.getElementById('scripts').appendChild(script);
+}
+
+// Call the function on window load
+window.onload = test;
+
