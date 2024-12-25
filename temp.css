@@ -620,7 +620,6 @@ main{
     justify-content: center;
     flex-direction: column;
     z-index: 0;
-    
 }
 .others h2{
     padding: 20px;
@@ -647,12 +646,14 @@ main{
     border-top: 1px solid #ccc;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
     padding: 10px 0;
-    z-index: 0;     
+    z-index: 1;     
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 -4px 8px rgba(0, 0, 0, 0.1);  /* Full box shadow */
     padding: 10px; 
     box-sizing: border-box;
 display: none;
+
 }
+
 .service{
 
     background-color: #000000; /* Bright yellow */
